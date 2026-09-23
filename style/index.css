@@ -83,3 +83,31 @@
     background-position: left top ,right bottom;
     background-color:#FFF8F3 ;
 }
+/* about section */
+main{
+    max-width:1140px ;
+    margin: 0 auto;
+}
+.about{
+    /* margin: 130px 230px; */
+    background-color:#FFF8F3 ;
+   padding: 130px 150px;
+   /* align-items: center; */
+   margin-top:130px;
+   text-align: center;
+}
+
+.about-heading{
+    font-weight: bold;
+    font-size: 35px;
+}
+.about-footer{
+    display: flex;
+    justify-content: space-around;
+}
+/* .item-title{ */
+    color: #FFF8F3;
+}
+/* .item-description{ */
+    color: #FFFFFF;
+}
