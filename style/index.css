@@ -177,3 +177,49 @@ main section{
     border: none;
     color: white;
 }
+/* footer style */
+footer{
+    display: flex;
+    gap: 90px;
+    background-color:#FFF8F3 ;
+    padding:130px 230px ;
+}
+.footer-title{
+    font-size: 35px;
+    font-weight: bold;
+    color: rgb(204, 129, 129);
+}
+.footer-para{
+    padding-right:100px ;
+    color: rgba(71, 71, 71, 1);
+}
+footer input[type="text"] , [type="email"] {
+    width: 461px;
+    height: 64px;
+    border-radius: 5px;
+    background-color: white;
+    color: rgba(117, 117, 117, 1);
+    border: none;
+    margin-bottom:24px ;
+    padding:18px 350px 18px 30px ;
+   
+    
+}
+/* footer textarea{
+    width: 461px ;
+    height: 180px;
+    border-radius: 5px;
+    background-color: white;
+    color: rgba(117, 117, 117, 1);
+     padding-right: 30px;
+     padding-top: 18px;
+
+} */
+ footer textarea{
+    width: 461px ;
+
+ }
+
+
+
+    
