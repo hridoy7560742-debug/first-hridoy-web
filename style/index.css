@@ -130,3 +130,50 @@ main section{
 .text-aline{
     padding-bottom:30px ;
 }
+
+/* resume */
+.resume-main-title{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(24, 24, 24, 1);
+}
+.resume-container{
+    display: flex;
+    gap: 24px;
+}
+.coloum-title{
+    font-weight: bold;
+    font-size: 30px;
+    /* dark 2 */
+    color: rgba(71, 71, 71, 1);
+}
+
+.coloum-item{
+    margin: 30px 70px 30px 0px;
+}
+.item-role{
+    font-size: 20px;
+    font-weight: bold;
+     color: rgba(71, 71, 71, 1);
+}
+.item-sub{
+    font-size:18px ;
+    font-weight:600px ;
+    /* dark 3 */
+    color: rgba(117, 117, 117, 1);}
+
+.button-cv{
+    text-align: center;
+    
+
+}
+.button-cv button{
+    background-color: #FD6E0A;
+    padding: 14px 30px;
+    font-size: 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    border: none;
+    color: white;
+}
